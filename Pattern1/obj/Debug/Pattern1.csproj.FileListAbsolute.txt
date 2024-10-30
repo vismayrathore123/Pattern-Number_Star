@@ -1,0 +1,7 @@
+C:\Users\vansh\source\repos\PatternLogicQuestion\Pattern1\bin\Debug\Pattern1.exe.config
+C:\Users\vansh\source\repos\PatternLogicQuestion\Pattern1\bin\Debug\Pattern1.exe
+C:\Users\vansh\source\repos\PatternLogicQuestion\Pattern1\bin\Debug\Pattern1.pdb
+C:\Users\vansh\source\repos\PatternLogicQuestion\Pattern1\obj\Debug\Pattern1.csproj.AssemblyReference.cache
+C:\Users\vansh\source\repos\PatternLogicQuestion\Pattern1\obj\Debug\Pattern1.csproj.CoreCompileInputs.cache
+C:\Users\vansh\source\repos\PatternLogicQuestion\Pattern1\obj\Debug\Pattern1.exe
+C:\Users\vansh\source\repos\PatternLogicQuestion\Pattern1\obj\Debug\Pattern1.pdb
