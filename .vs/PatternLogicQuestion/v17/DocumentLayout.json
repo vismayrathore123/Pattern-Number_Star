@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{565D99CE-0EA2-4700-89CE-924AC07FDE51}|Pattern6\\Pattern6.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565D99CE-0EA2-4700-89CE-924AC07FDE51}|Pattern6\\Pattern6.csproj|solutionrelative:pattern6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110CE5A9-9C62-4B9E-8696-969A17D271BE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110CE5A9-9C62-4B9E-8696-969A17D271BE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04DADE7-3838-4455-B09C-EA13D4EF91AD}|Pattern4\\Pattern4.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04DADE7-3838-4455-B09C-EA13D4EF91AD}|Pattern4\\Pattern4.csproj|solutionrelative:pattern4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD98D8C-9C15-4803-8467-18E680B54E0E}|Pattern\\Pattern.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD98D8C-9C15-4803-8467-18E680B54E0E}|Pattern\\Pattern.csproj|solutionrelative:pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA458187-ADE4-409D-84AC-6E3F4A8460E8}|Pattern1\\Pattern1.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA458187-ADE4-409D-84AC-6E3F4A8460E8}|Pattern1\\Pattern1.csproj|solutionrelative:pattern1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern6\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern6\\Program.cs",
+              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern6\\Program.cs",
+              "RelativeToolTip": "Pattern6\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:29:06.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:21:30.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern4\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern4\\Program.cs",
+              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern4\\Program.cs",
+              "RelativeToolTip": "Pattern4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:20:05.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern\\Program.cs",
+              "RelativeToolTip": "Pattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:18:14.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern1\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern1\\Program.cs",
+              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern1\\Program.cs",
+              "RelativeToolTip": "Pattern1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:17:29.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
