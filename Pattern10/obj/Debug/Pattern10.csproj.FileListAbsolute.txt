@@ -1,0 +1,7 @@
+C:\Users\system solution\Desktop\Pattern\Pattern-Number_Star\Pattern10\bin\Debug\Pattern10.exe.config
+C:\Users\system solution\Desktop\Pattern\Pattern-Number_Star\Pattern10\bin\Debug\Pattern10.exe
+C:\Users\system solution\Desktop\Pattern\Pattern-Number_Star\Pattern10\bin\Debug\Pattern10.pdb
+C:\Users\system solution\Desktop\Pattern\Pattern-Number_Star\Pattern10\obj\Debug\Pattern10.csproj.AssemblyReference.cache
+C:\Users\system solution\Desktop\Pattern\Pattern-Number_Star\Pattern10\obj\Debug\Pattern10.csproj.CoreCompileInputs.cache
+C:\Users\system solution\Desktop\Pattern\Pattern-Number_Star\Pattern10\obj\Debug\Pattern10.exe
+C:\Users\system solution\Desktop\Pattern\Pattern-Number_Star\Pattern10\obj\Debug\Pattern10.pdb

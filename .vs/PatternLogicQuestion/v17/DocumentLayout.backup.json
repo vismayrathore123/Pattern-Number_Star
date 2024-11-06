@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30F64BCE-6683-411E-9414-2B3E87814E07}|Pattern12\\Pattern12.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F64BCE-6683-411E-9414-2B3E87814E07}|Pattern12\\Pattern12.csproj|solutionrelative:pattern12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E022C09F-E08E-4082-A748-E3BE9EBF6E1D}|Pattern11\\Pattern11.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E022C09F-E08E-4082-A748-E3BE9EBF6E1D}|Pattern11\\Pattern11.csproj|solutionrelative:pattern11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60DCB19E-EABB-4E5C-A136-8E617BADE697}|Pattern10\\Pattern10.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60DCB19E-EABB-4E5C-A136-8E617BADE697}|Pattern10\\Pattern10.csproj|solutionrelative:pattern10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA143BAB-CA7D-4D1C-B9B0-7D5C4D89B2B8}|Pattern9\\Pattern9.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA143BAB-CA7D-4D1C-B9B0-7D5C4D89B2B8}|Pattern9\\Pattern9.csproj|solutionrelative:pattern9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{619C2DC6-D08F-4B2E-96B8-33F97B5C672B}|Pattern8\\Pattern8.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{619C2DC6-D08F-4B2E-96B8-33F97B5C672B}|Pattern8\\Pattern8.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\pattern8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{619C2DC6-D08F-4B2E-96B8-33F97B5C672B}|Pattern8\\Pattern8.csproj|solutionrelative:pattern8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27DD4812-6830-4B80-94E1-E3F7F9A7266C}|Pattern7\\Pattern7.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27DD4812-6830-4B80-94E1-E3F7F9A7266C}|Pattern7\\Pattern7.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\pattern7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27DD4812-6830-4B80-94E1-E3F7F9A7266C}|Pattern7\\Pattern7.csproj|solutionrelative:pattern7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{565D99CE-0EA2-4700-89CE-924AC07FDE51}|Pattern6\\Pattern6.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{565D99CE-0EA2-4700-89CE-924AC07FDE51}|Pattern6\\Pattern6.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\pattern6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{565D99CE-0EA2-4700-89CE-924AC07FDE51}|Pattern6\\Pattern6.csproj|solutionrelative:pattern6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{110CE5A9-9C62-4B9E-8696-969A17D271BE}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{110CE5A9-9C62-4B9E-8696-969A17D271BE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C04DADE7-3838-4455-B09C-EA13D4EF91AD}|Pattern4\\Pattern4.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\pattern4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C04DADE7-3838-4455-B09C-EA13D4EF91AD}|Pattern4\\Pattern4.csproj|solutionrelative:pattern4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AD98D8C-9C15-4803-8467-18E680B54E0E}|Pattern\\Pattern.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD98D8C-9C15-4803-8467-18E680B54E0E}|Pattern\\Pattern.csproj|solutionrelative:pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA458187-ADE4-409D-84AC-6E3F4A8460E8}|Pattern1\\Pattern1.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\pattern1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA458187-ADE4-409D-84AC-6E3F4A8460E8}|Pattern1\\Pattern1.csproj|solutionrelative:pattern1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pattern\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,18 +64,57 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern12\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern12\\Program.cs",
+              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern12\\Program.cs",
+              "RelativeToolTip": "Pattern12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:49:29.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern11\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern11\\Program.cs",
+              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern11\\Program.cs",
+              "RelativeToolTip": "Pattern11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:36:42.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern10\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern10\\Program.cs",
+              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern10\\Program.cs",
+              "RelativeToolTip": "Pattern10\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvyoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:08:39.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern9\\Program.cs",
               "RelativeDocumentMoniker": "Pattern9\\Program.cs",
               "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern9\\Program.cs",
               "RelativeToolTip": "Pattern9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAMzMzMzPzvxQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T08:13:50.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern8\\Program.cs",
               "RelativeDocumentMoniker": "Pattern8\\Program.cs",
@@ -71,12 +122,11 @@
               "RelativeToolTip": "Pattern8\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T08:04:19.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T08:04:19.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern7\\Program.cs",
               "RelativeDocumentMoniker": "Pattern7\\Program.cs",
@@ -84,12 +134,11 @@
               "RelativeToolTip": "Pattern7\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T07:42:40.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T07:42:40.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern6\\Program.cs",
               "RelativeDocumentMoniker": "Pattern6\\Program.cs",
@@ -97,12 +146,11 @@
               "RelativeToolTip": "Pattern6\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAcwBYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T07:29:06.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T07:29:06.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
@@ -114,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern4\\Program.cs",
               "RelativeDocumentMoniker": "Pattern4\\Program.cs",
@@ -126,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern\\Program.cs",
               "RelativeDocumentMoniker": "Pattern\\Program.cs",
@@ -138,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern1\\Program.cs",
               "RelativeDocumentMoniker": "Pattern1\\Program.cs",
