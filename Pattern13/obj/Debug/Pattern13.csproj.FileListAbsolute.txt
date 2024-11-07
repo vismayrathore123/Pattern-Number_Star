@@ -1,0 +1,7 @@
+C:\Users\system solution\Desktop\Pattern\Pattern-Number_Star\Pattern13\bin\Debug\Pattern13.exe.config
+C:\Users\system solution\Desktop\Pattern\Pattern-Number_Star\Pattern13\bin\Debug\Pattern13.exe
+C:\Users\system solution\Desktop\Pattern\Pattern-Number_Star\Pattern13\bin\Debug\Pattern13.pdb
+C:\Users\system solution\Desktop\Pattern\Pattern-Number_Star\Pattern13\obj\Debug\Pattern13.csproj.AssemblyReference.cache
+C:\Users\system solution\Desktop\Pattern\Pattern-Number_Star\Pattern13\obj\Debug\Pattern13.csproj.CoreCompileInputs.cache
+C:\Users\system solution\Desktop\Pattern\Pattern-Number_Star\Pattern13\obj\Debug\Pattern13.exe
+C:\Users\system solution\Desktop\Pattern\Pattern-Number_Star\Pattern13\obj\Debug\Pattern13.pdb
