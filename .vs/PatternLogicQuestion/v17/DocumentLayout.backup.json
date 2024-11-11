@@ -1,66 +1,68 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\",
+  "WorkspaceRootPath": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72C8977E-A78E-4B1A-A654-73AADCAD9E30}|Pattern16\\Pattern16.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED9FD28F-D782-46B4-8FCF-5C4F0F5C9F7E}|Pattern17\\Pattern17.csproj|c:\\users\\vansh\\desktop\\vismay\\patternquestion\\pattern-number_star\\pattern17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9FD28F-D782-46B4-8FCF-5C4F0F5C9F7E}|Pattern17\\Pattern17.csproj|solutionrelative:pattern17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C8977E-A78E-4B1A-A654-73AADCAD9E30}|Pattern16\\Pattern16.csproj|c:\\users\\vansh\\desktop\\vismay\\patternquestion\\pattern-number_star\\pattern16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72C8977E-A78E-4B1A-A654-73AADCAD9E30}|Pattern16\\Pattern16.csproj|solutionrelative:pattern16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC946C03-C570-46C8-BCB8-D88AD1AF5476}|Pattern15\\Pattern15.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC946C03-C570-46C8-BCB8-D88AD1AF5476}|Pattern15\\Pattern15.csproj|C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\pattern15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC946C03-C570-46C8-BCB8-D88AD1AF5476}|Pattern15\\Pattern15.csproj|solutionrelative:pattern15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF2FE661-A09D-4417-ACEE-18EC02CB0B5F}|Pattern14\\Pattern14.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF2FE661-A09D-4417-ACEE-18EC02CB0B5F}|Pattern14\\Pattern14.csproj|C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\pattern14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF2FE661-A09D-4417-ACEE-18EC02CB0B5F}|Pattern14\\Pattern14.csproj|solutionrelative:pattern14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32E0772C-6EED-47F6-B5FF-D0F0CA4526C3}|Pattern13\\Pattern13.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32E0772C-6EED-47F6-B5FF-D0F0CA4526C3}|Pattern13\\Pattern13.csproj|C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\pattern13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32E0772C-6EED-47F6-B5FF-D0F0CA4526C3}|Pattern13\\Pattern13.csproj|solutionrelative:pattern13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30F64BCE-6683-411E-9414-2B3E87814E07}|Pattern12\\Pattern12.csproj|c:\\users\\system solution\\desktop\\pattern\\pattern-number_star\\pattern12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30F64BCE-6683-411E-9414-2B3E87814E07}|Pattern12\\Pattern12.csproj|C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\pattern12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30F64BCE-6683-411E-9414-2B3E87814E07}|Pattern12\\Pattern12.csproj|solutionrelative:pattern12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E022C09F-E08E-4082-A748-E3BE9EBF6E1D}|Pattern11\\Pattern11.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\pattern11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E022C09F-E08E-4082-A748-E3BE9EBF6E1D}|Pattern11\\Pattern11.csproj|C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\pattern11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E022C09F-E08E-4082-A748-E3BE9EBF6E1D}|Pattern11\\Pattern11.csproj|solutionrelative:pattern11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60DCB19E-EABB-4E5C-A136-8E617BADE697}|Pattern10\\Pattern10.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\pattern10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60DCB19E-EABB-4E5C-A136-8E617BADE697}|Pattern10\\Pattern10.csproj|C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\pattern10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60DCB19E-EABB-4E5C-A136-8E617BADE697}|Pattern10\\Pattern10.csproj|solutionrelative:pattern10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA143BAB-CA7D-4D1C-B9B0-7D5C4D89B2B8}|Pattern9\\Pattern9.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\pattern9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA143BAB-CA7D-4D1C-B9B0-7D5C4D89B2B8}|Pattern9\\Pattern9.csproj|C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\pattern9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA143BAB-CA7D-4D1C-B9B0-7D5C4D89B2B8}|Pattern9\\Pattern9.csproj|solutionrelative:pattern9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{619C2DC6-D08F-4B2E-96B8-33F97B5C672B}|Pattern8\\Pattern8.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\pattern8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{619C2DC6-D08F-4B2E-96B8-33F97B5C672B}|Pattern8\\Pattern8.csproj|C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\pattern8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{619C2DC6-D08F-4B2E-96B8-33F97B5C672B}|Pattern8\\Pattern8.csproj|solutionrelative:pattern8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27DD4812-6830-4B80-94E1-E3F7F9A7266C}|Pattern7\\Pattern7.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\pattern7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27DD4812-6830-4B80-94E1-E3F7F9A7266C}|Pattern7\\Pattern7.csproj|C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\pattern7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27DD4812-6830-4B80-94E1-E3F7F9A7266C}|Pattern7\\Pattern7.csproj|solutionrelative:pattern7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{565D99CE-0EA2-4700-89CE-924AC07FDE51}|Pattern6\\Pattern6.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\pattern6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{565D99CE-0EA2-4700-89CE-924AC07FDE51}|Pattern6\\Pattern6.csproj|C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\pattern6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{565D99CE-0EA2-4700-89CE-924AC07FDE51}|Pattern6\\Pattern6.csproj|solutionrelative:pattern6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C04DADE7-3838-4455-B09C-EA13D4EF91AD}|Pattern4\\Pattern4.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\pattern4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C04DADE7-3838-4455-B09C-EA13D4EF91AD}|Pattern4\\Pattern4.csproj|C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\pattern4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C04DADE7-3838-4455-B09C-EA13D4EF91AD}|Pattern4\\Pattern4.csproj|solutionrelative:pattern4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA458187-ADE4-409D-84AC-6E3F4A8460E8}|Pattern1\\Pattern1.csproj|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\pattern1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA458187-ADE4-409D-84AC-6E3F4A8460E8}|Pattern1\\Pattern1.csproj|C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\pattern1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA458187-ADE4-409D-84AC-6E3F4A8460E8}|Pattern1\\Pattern1.csproj|solutionrelative:pattern1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pattern\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,84 +72,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern16\\Program.cs",
-              "RelativeDocumentMoniker": "Pattern16\\Program.cs",
-              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern16\\Program.cs",
-              "RelativeToolTip": "Pattern16\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern17\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern17\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern17\\Program.cs*",
+              "RelativeToolTip": "Pattern17\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T05:55:01.324Z",
+              "WhenOpened": "2024-11-11T04:41:57.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern15\\Program.cs",
-              "RelativeDocumentMoniker": "Pattern15\\Program.cs",
-              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern15\\Program.cs",
-              "RelativeToolTip": "Pattern15\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern16\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern16\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern16\\Program.cs",
+              "RelativeToolTip": "Pattern16\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvw4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T05:46:47.562Z",
+              "WhenOpened": "2024-11-07T05:55:01.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern14\\Program.cs",
-              "RelativeDocumentMoniker": "Pattern14\\Program.cs",
-              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern14\\Program.cs",
-              "RelativeToolTip": "Pattern14\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern15\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern15\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern15\\Program.cs",
+              "RelativeToolTip": "Pattern15\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T05:22:57.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T05:46:47.562Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern13\\Program.cs",
-              "RelativeDocumentMoniker": "Pattern13\\Program.cs",
-              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern13\\Program.cs",
-              "RelativeToolTip": "Pattern13\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern14\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern14\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern14\\Program.cs",
+              "RelativeToolTip": "Pattern14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T05:18:54.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T05:22:57.592Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern12\\Program.cs",
-              "RelativeDocumentMoniker": "Pattern12\\Program.cs",
-              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern12\\Program.cs",
-              "RelativeToolTip": "Pattern12\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern13\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern13\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern13\\Program.cs",
+              "RelativeToolTip": "Pattern13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:49:29.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T05:18:54.862Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern11\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern12\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern12\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern12\\Program.cs",
+              "RelativeToolTip": "Pattern12\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:49:29.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern11\\Program.cs",
               "RelativeDocumentMoniker": "Pattern11\\Program.cs",
-              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern11\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern11\\Program.cs",
               "RelativeToolTip": "Pattern11\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,11 +162,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern10\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern10\\Program.cs",
               "RelativeDocumentMoniker": "Pattern10\\Program.cs",
-              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern10\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern10\\Program.cs",
               "RelativeToolTip": "Pattern10\\Program.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAADwvyoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -167,11 +174,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern9\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern9\\Program.cs",
               "RelativeDocumentMoniker": "Pattern9\\Program.cs",
-              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern9\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern9\\Program.cs",
               "RelativeToolTip": "Pattern9\\Program.cs",
               "ViewState": "AgIAAAgAAAAAMzMzMzPzvxQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,11 +186,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern8\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern8\\Program.cs",
               "RelativeDocumentMoniker": "Pattern8\\Program.cs",
-              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern8\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern8\\Program.cs",
               "RelativeToolTip": "Pattern8\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,11 +198,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern7\\Program.cs",
               "RelativeDocumentMoniker": "Pattern7\\Program.cs",
-              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern7\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern7\\Program.cs",
               "RelativeToolTip": "Pattern7\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,11 +210,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern6\\Program.cs",
               "RelativeDocumentMoniker": "Pattern6\\Program.cs",
-              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern6\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern6\\Program.cs",
               "RelativeToolTip": "Pattern6\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAcwBYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,23 +222,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T07:21:30.194Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern4\\Program.cs",
               "RelativeDocumentMoniker": "Pattern4\\Program.cs",
-              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern4\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern4\\Program.cs",
               "RelativeToolTip": "Pattern4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -239,23 +246,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern\\Program.cs",
-              "RelativeDocumentMoniker": "Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern\\Program.cs",
               "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern\\Program.cs",
-              "RelativeToolTip": "Pattern\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T07:18:14.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern1\\Program.cs",
               "RelativeDocumentMoniker": "Pattern1\\Program.cs",
-              "ToolTip": "C:\\Users\\system solution\\Desktop\\Pattern\\Pattern-Number_Star\\Pattern1\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\PatternQuestion\\Pattern-Number_Star\\Pattern1\\Program.cs",
               "RelativeToolTip": "Pattern1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
