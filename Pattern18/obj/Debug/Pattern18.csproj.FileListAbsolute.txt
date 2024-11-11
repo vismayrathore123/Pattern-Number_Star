@@ -1,0 +1,7 @@
+C:\Users\vansh\Desktop\vismay\PatternQuestion\Pattern-Number_Star\Pattern18\bin\Debug\Pattern18.exe.config
+C:\Users\vansh\Desktop\vismay\PatternQuestion\Pattern-Number_Star\Pattern18\bin\Debug\Pattern18.exe
+C:\Users\vansh\Desktop\vismay\PatternQuestion\Pattern-Number_Star\Pattern18\bin\Debug\Pattern18.pdb
+C:\Users\vansh\Desktop\vismay\PatternQuestion\Pattern-Number_Star\Pattern18\obj\Debug\Pattern18.csproj.AssemblyReference.cache
+C:\Users\vansh\Desktop\vismay\PatternQuestion\Pattern-Number_Star\Pattern18\obj\Debug\Pattern18.csproj.CoreCompileInputs.cache
+C:\Users\vansh\Desktop\vismay\PatternQuestion\Pattern-Number_Star\Pattern18\obj\Debug\Pattern18.exe
+C:\Users\vansh\Desktop\vismay\PatternQuestion\Pattern-Number_Star\Pattern18\obj\Debug\Pattern18.pdb
